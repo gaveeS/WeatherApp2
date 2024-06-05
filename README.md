@@ -32,7 +32,8 @@ Additional Features
 
 Screenshots
 
-![interface](https://github.com/gaveeS/WeatherApp2/assets/171671677/25e2716e-0004-484e-8ebe-7b638d54d0f3)
+![2](https://github.com/gaveeS/WeatherApp2/assets/171671677/0f33cb49-2056-403b-a5f5-17ecfecbbe0a)
+
 
 Contact
 Author – Salgado MGS
